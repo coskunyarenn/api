@@ -1,0 +1,284 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Gölgen Caymaz: Yoga Benim İçin Vazgeçilmez Bir Tutku",
+      "author": {
+        "id": "7",
+        "name": "Zerrin Yapıcıoğulları",
+        "profileImage": "https://example.com/profile1.jpg"
+      },
+      "publishedDate": "2024-07-30T12:00:00Z",
+      "updatedDate": "2024-07-30T12:30:00Z",
+      "content": "“YİNG YOGA, BEL VE BOYUN FITIĞINA İYİ GELİYOR”Ying yoga dersleri özellikle bel ve boyun fıtığına iyi geldiğini söyleyen Caymaz, “Doktorların yönlendirmesiyle gelen birçok üyemiz bu derslerden faydalanıyor. Yoga başlangıç, yoga 1 ve Ying yoga dersleri, bu tür rahatsızlıklar yaşayan kişiler için ideal” dedi.",
+      "summary": "5-12 YAŞ ARASI ÇOCUK YOGA DERSLERİ MEVCUT",
+      "tags": ["Manşet", "Özel Haberler", "Spor", "Yaşam"],
+      "category": [
+        {
+          "id": "Yaşam",
+          "name": "Yaşam"
+        },
+        {
+          "id": "Spor",
+          "name": "Spor"
+        },
+        {
+          "id": "Özel Haberler",
+          "name": "Özel Haberler"
+        }
+      ],
+      "image": "https://example.com/image1.jpg",
+      "source": {
+        "id": "1",
+        "name": "Global News",
+        "url": "https://globalnews.com",
+        "logo": "https://example.com/logo1.jpg"
+      },
+      "comments": [
+        {
+          "id": "101",
+          "author": "Jane Smith",
+          "content": "This is a significant event. Looking forward to more updates.",
+          "date": "2024-07-30T13:00:00Z"
+        }
+      ],
+      "relatedArticles": [
+        {
+          "id": "2",
+          "title": "Related Article: The Background of the Major Event",
+          "url": "https://example.com/related-article1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Technology Breakthrough: New AI Model Released",
+      "author": {
+        "id": "2",
+        "name": "Alice Johnson",
+        "profileImage": "https://example.com/profile2.jpg"
+      },
+      "publishedDate": "2024-07-30T10:00:00Z",
+      "updatedDate": "2024-07-30T11:00:00Z",
+      "content": "A new AI model has been released, promising advancements in technology and machine learning. This article covers the details and potential implications.",
+      "summary": "The latest AI model has been unveiled, with significant improvements in technology. Here’s a summary of the key features and potential impact.",
+      "tags": ["Technology", "AI", "Innovation"],
+      "category": {
+        "id": "technology",
+        "name": "Technology"
+      },
+      "image": "https://example.com/image2.jpg",
+      "source": {
+        "id": "2",
+        "name": "Tech Today",
+        "url": "https://techtoday.com",
+        "logo": "https://example.com/logo2.jpg"
+      },
+      "comments": [
+        {
+          "id": "102",
+          "author": "Robert Brown",
+          "content": "Exciting development in AI technology! Can’t wait to see how this evolves.",
+          "date": "2024-07-30T11:30:00Z"
+        }
+      ],
+      "relatedArticles": [
+        {
+          "id": "3",
+          "title": "Upcoming AI Technologies to Watch",
+          "url": "https://example.com/related-article2"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "spor",
+      "name": "spor",
+      "description": "World news and international affairs."
+    },
+    {
+      "id": "ozel_haberler",
+      "name": "ozel_haberler",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "polisiye",
+      "name": "polisiye",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "rum_basini",
+      "name": "rum_basini",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "siyaset",
+      "name": "siyaset",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "saglik",
+      "name": "saglik",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "teknoloji",
+      "name": "teknoloji",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "bilim",
+      "name": "bilim",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "cevre",
+      "name": "cevre",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "yeme_icme",
+      "name": "yeme_icme",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "sanat",
+      "name": "sanat",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "sinema_tv",
+      "name": "sinema_tv",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "magazin",
+      "name": "magazin",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "astroloji",
+      "name": "astroloji",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "yasam",
+      "name": "yasam",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "turizm",
+      "name": "turizm",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "ekonomi",
+      "name": "ekonomi",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "otomotiv",
+      "name": "otomotiv",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "turkiye",
+      "name": "turkiye",
+      "description": "Technology news and updates."
+    },
+    {
+      "id": "vefat",
+      "name": "vefat",
+      "description": "Technology news and updates."
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "Aral Moral",
+      "bio": "John Doe is a seasoned journalist with 10 years of experience in reporting global news.",
+      "profileImage": "https://example.com/profile1.jpg",
+      "socialLinks": {
+        "twitter": "https://twitter.com/johndoe",
+        "linkedin": "https://linkedin.com/in/johndoe"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Dyt. Çağrı Özlütaş",
+      "bio": "Alice Johnson is a tech journalist with a focus on AI and emerging technologies.",
+      "profileImage": "https://example.com/profile2.jpg",
+      "socialLinks": {
+        "twitter": "https://twitter.com/alicejohnson",
+        "linkedin": "https://linkedin.com/in/alicejohnson"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Eğitimci Ozan Çoli",
+      "bio": "Alice Johnson is a tech journalist with a focus on AI and emerging technologies.",
+      "profileImage": "https://example.com/profile2.jpg",
+      "socialLinks": {
+        "twitter": "https://twitter.com/alicejohnson",
+        "linkedin": "https://linkedin.com/in/alicejohnson"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Selda Bektaş",
+      "bio": "Alice Johnson is a tech journalist with a focus on AI and emerging technologies.",
+      "profileImage": "https://example.com/profile2.jpg",
+      "socialLinks": {
+        "twitter": "https://twitter.com/alicejohnson",
+        "linkedin": "https://linkedin.com/in/alicejohnson"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Serhan Kablan",
+      "bio": "Alice Johnson is a tech journalist with a focus on AI and emerging technologies.",
+      "profileImage": "https://example.com/profile2.jpg",
+      "socialLinks": {
+        "twitter": "https://twitter.com/alicejohnson",
+        "linkedin": "https://linkedin.com/in/alicejohnson"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Doç. Dr. Yonca Özdemir",
+      "bio": "Alice Johnson is a tech journalist with a focus on AI and emerging technologies.",
+      "profileImage": "https://example.com/profile2.jpg",
+      "socialLinks": {
+        "twitter": "https://twitter.com/alicejohnson",
+        "linkedin": "https://linkedin.com/in/alicejohnson"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Zerrin Yapıcıoğulları",
+      "bio": "Alice Johnson is a tech journalist with a focus on AI and emerging technologies.",
+      "profileImage": "https://example.com/profile2.jpg",
+      "socialLinks": {
+        "twitter": "https://twitter.com/alicejohnson",
+        "linkedin": "https://linkedin.com/in/alicejohnson"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "name": "Global News",
+      "url": "https://globalnews.com",
+      "description": "A leading source for global news and events.",
+      "logo": "https://example.com/logo1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Tech Today",
+      "url": "https://techtoday.com",
+      "description": "Your go-to source for the latest in technology and innovation.",
+      "logo": "https://example.com/logo2.jpg"
+    }
+  ]
+}
